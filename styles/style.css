@@ -31,6 +31,7 @@ body {
   font-size: 4.5rem;
   line-height: 1.5;
   margin: 0;
+  font-weight: 400;
 }
 
 .container__name {
@@ -59,7 +60,8 @@ body {
   margin: 0;
   font-size: 1.2rem;
   line-height: 1.5;
-  font-family: "Open Sans Regular";
+  font-family: "Open Sans";
+  font-weight: 400;
   color: rgba(255, 255, 255, 0.5);
 }
 
@@ -69,7 +71,8 @@ body {
   margin: 0;
   font-size: 1.2rem;
   line-height: 1.7;
-  font-family: "Open Sans Regular";
+  font-family: "Open Sans";
+  font-weight: 400;
 }
 
 .nav__perfil {
@@ -90,7 +93,8 @@ body {
   display: inline-block;
 
   color: #ffffff;
-  font-family: "Open Sans Semi";
+  font-family: "Open Sans";
+  font-weight: 600;
   font-size: 1.2rem;
   text-decoration: none;
   line-height: 0.8;
@@ -129,6 +133,7 @@ body {
   margin-left: 7%;
   margin-bottom: 3%;
   font-family: "Archivo Black";
+  font-weight: 400;
   font-size: 2.5rem;
 }
 
@@ -157,8 +162,6 @@ body {
   border: 1px solid #363636;
   border-radius: 0;
   overflow: hidden;
-
-  font-family: Arial, sans-serif;
 }
 
 .card,
@@ -226,16 +229,16 @@ body {
 }
 
 .card__title {
-  font-family: "Open Sans Bold";
+  font-family: "Open Sans";
   font-size: 1.5rem;
-  font-weight: 500;
+  font-weight: 700;
   line-height: 1.2;
 }
 
 .card__text {
-  font-family: "Open Sans Regular";
+  font-family: "Open Sans";
   font-size: 1.2rem;
-  font-weight: 500;
+  font-weight: 400;
   line-height: 0.8;
 }
 
@@ -258,9 +261,9 @@ body {
 }
 
 .card-link {
-  font-family: "Open Sans Regular";
+  font-family: "Open Sans";
   font-size: 1rem;
-  font-weight: 500;
+  font-weight: 400;
   line-height: 0.8;
 }
 
@@ -301,9 +304,9 @@ body {
 }
 
 .card-link__git {
-  font-family: "Open Sans Regular";
+  font-family: "Open Sans";
   font-size: 1rem;
-  font-weight: 500;
+  font-weight: 400;
   line-height: 0.8;
 }
 
@@ -385,13 +388,15 @@ body {
 
 .title__footer {
   font-family: "Archivo Black";
+  font-weight: 400;
   font-size: 2.5rem;
   margin: 0 auto;
   margin-bottom: 10px;
 }
 
 .paragraph__footer {
-  font-family: "Open Sans Regular";
+  font-family: "Open Sans";
+  font-weight: 400;
   font-size: 1.2rem;
   color: #6d6dff;
   margin: 0 auto;
