@@ -20,6 +20,8 @@ body {
 
   background-repeat: no-repeat;
   color: white;
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: 400;
 }
 
 .page {
@@ -60,8 +62,9 @@ body {
   margin: 0;
   font-size: 1.2rem;
   line-height: 1.5;
-  font-family: "Open Sans", "Inter";
+  font-family: "Noto Serif", Georgia, serif;
   font-weight: 400;
+  font-style: italic;
   color: rgba(255, 255, 255, 0.5);
 }
 
@@ -93,8 +96,8 @@ body {
   display: inline-block;
 
   color: #ffffff;
-  font-family: "Open Sans", "Inter";
-  font-weight: 600;
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: 500;
   font-size: 1.2rem;
   text-decoration: none;
   line-height: 0.8;
