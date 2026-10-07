@@ -225,6 +225,20 @@ body {
   padding: 20px;
 }
 
+.card__title {
+  font-family: "Open Sans Bold";
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.card__text {
+  font-family: "Open Sans Regular";
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 0.8;
+}
+
 .card .card__title {
   margin: 0 0 12px;
 
@@ -241,6 +255,13 @@ body {
   font-size: 14px;
   line-height: 1.5;
   overflow-wrap: anywhere;
+}
+
+.card-link {
+  font-family: "Open Sans Regular";
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 0.8;
 }
 
 .card .card-links {
@@ -277,6 +298,13 @@ body {
 .card .card-link:focus-visible {
   outline: 2px solid #b5b8ff;
   outline-offset: 4px;
+}
+
+.card-link__git {
+  font-family: "Open Sans Regular";
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 0.8;
 }
 
 .card .card-link__git {
